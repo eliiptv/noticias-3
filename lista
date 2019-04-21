@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BAND NEWS***" tvg-name="BAND NEWS" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Notícias",BAND NEWS
+http://streamtv.com.br:80/malek/malek/1660
+#EXTINF:-1 tvg-id="BAND NEWS HD***" tvg-name="BAND NEWS HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Notícias",BAND NEWS HD
+http://streamtv.com.br:80/malek/malek/227
+#EXTINF:-1 tvg-id="GLOBO NEWS***" tvg-name="GLOBO NEWS" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Notícias",GLOBO NEWS
+http://streamtv.com.br:80/malek/malek/1614
+#EXTINF:-1 tvg-id="GLOBO NEWS HD***" tvg-name="GLOBO NEWS HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Notícias",GLOBO NEWS HD
+http://streamtv.com.br:80/malek/malek/185
+#EXTINF:-1 tvg-id="RECORD NEWS***" tvg-name="RECORD NEWS" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Notícias",RECORD NEWS
+http://streamtv.com.br:80/malek/malek/1564
+#EXTINF:-1 tvg-id="RECORD NEWS HD***" tvg-name="RECORD NEWS HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Notícias",RECORD NEWS HD
+http://streamtv.com.br:80/malek/malek/1052
