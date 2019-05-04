@@ -1,13 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BAND NEWS***" tvg-name="BAND NEWS" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Notícias",BAND NEWS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1660
-#EXTINF:-1 tvg-id="BAND NEWS HD***" tvg-name="BAND NEWS HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Notícias",BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/227
-#EXTINF:-1 tvg-id="GLOBO NEWS***" tvg-name="GLOBO NEWS" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Notícias",GLOBO NEWS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1614
-#EXTINF:-1 tvg-id="GLOBO NEWS HD***" tvg-name="GLOBO NEWS HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Notícias",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/185
-#EXTINF:-1 tvg-id="RECORD NEWS***" tvg-name="RECORD NEWS" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Notícias",RECORD NEWS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1564
-#EXTINF:-1 tvg-id="RECORD NEWS HD***" tvg-name="RECORD NEWS HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Notícias",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1052
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11536
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10296
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4399
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20869
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/fn-logo.png" group-title="CANAIS NOTICIAS",FOX NEWS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6835
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25010
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7442
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11043
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4432
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="LISTA ALTERNATIVA (TODOS OS CANAIS)",GLOBO NEWS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11243
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24928
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS NOTICIAS",NHK HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4347
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS NOTICIAS",NHK SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6949
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10255
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS NOTICIAS",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6941
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS RECORD",RECORD NEWS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20557
